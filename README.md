@@ -1,6 +1,6 @@
 ## News app
 
-**[Live app link](https://klocc.kittyandrew.dev/)**
+**[Live app link](https://6272e1457b70ba1fe6734755--exquisite-sundae-cb21bd.netlify.app/)**
 
 App with Firebase authorisation by email using **[news api](https://newsapi.org/)**.
 
