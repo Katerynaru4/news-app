@@ -1,5 +1,5 @@
 {
-  "name": "next-app",
+  "name": "news-auth-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
